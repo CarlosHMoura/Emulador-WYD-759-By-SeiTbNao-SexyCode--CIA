@@ -1,0 +1,13 @@
+por send etc no /pin
+---------------------
+./npc/Judith no chat
+arrumar essa fita aqui antes da guerra de torres
+--------------------
+/CREATE não lê se o nome é extenso demais(se for buga o nome)
+------------
+colocar skill VELO no carbunkle wind
+
+
+RVR - OK
+GTORRE - OK
+CITYWAR - OK

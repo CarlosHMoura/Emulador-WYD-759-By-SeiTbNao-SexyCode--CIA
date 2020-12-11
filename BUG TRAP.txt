@@ -1,0 +1,177 @@
+QUEST CAMPO/TREINAMENTO   [OK]
+QUEST COVEIRO             [OK]
+CASTELO ORC               [OK]
+QUEST TERRA MISTICA       [OK]
+QUEST BENCAO DE DEUS      [OK]
+QUEST CAPA VERDE		  [OK]
+AMELIA/HELGARDTH          [OK]
+QUEST EQUILIBRIO          [OK]
+QUEST JARDINEIRO          [OK]
+QUEST KAIZEN              [OK]
+QUEST MOLAR				  [OK]
+QUEST HIDRA               [OK]
+QUEST ELFOS               [OK]
+FORSET                    [FASE DE IMPLANTAÇÃO]
+LIDER APRENDIZ            [OK]
+PERZEN                    [OK]
+QUEST CAPAREAL            [AJUSTAR]
+CAPAVERDE TELEPORT        [OK]
+MOLARGARGULA              [OK]
+CHEFE DE TREINO           [OK]
+SOBREVIVENTE              [OK]
+KRUNO                     [OK]
+CURANDEIRA                [IMPLEMENTAR]
+UXMAL                     [OK]
+MESTREGRIFO               [OK]
+TREINADORNEWBIE1          [OK]
+TREINADORNEWBIE2          [OK]
+TREINADORNEWBIE3          [OK]
+CAPAVERDE TRADE           [OK]
+BLACKORACLE               [OK]
+REDORACLE				  [OK]
+BLUEORACLE				  [OK]
+CARBUNCLE WIND            [OK]
+GOLD DRAGON               [OK]
+AMU MISTICO(RECEBER AMU)  [OK]
+EXPLOIT LEADER            [OK]
+JEFFI                     [OK]
+SHAMA                     [OK]
+KINGRED                   [OK]
+KINGBLUE                  [OK]
+COMP SEPHI                [OK]
+ZAKUM                     [OK]
+UNICORNIO PURO            [OK]
+GODGOVERNMENT             [OK]
+MOUNT MASTER              [OK]
+ARZAN DRAGON              [OK]
+URNAMMU                   [OK]
+KIBITA                    [OK]
+KINGDOM                   [OK]
+MESTREHAB                 [OK]
+REI BLUE                  [OK]
+JULIARZAN                 [OK]
+JULIGELO                  [OK]
+GETEMPTYAFFECT            [OK]
+GUARDA REAL I             [CONFIGURAR NPC]
+GUARDA REAL II            [CONFIGURAR NPC]
+GUARDA REAL III           [CONFIGURAR NPC] 
+GUARDA REAL IV            [CONFIGURAR NPC] 
+GUARDA REAL V             [CONFIGURAR NPC] 
+GUARDA REAL VI            [CONFIGURAR NPC] 
+QUEST COVEIRO			  [OK]
+
+PISTA DE RUNAS +0		  [OK]
+PISTA DE RUNAS +1         [OK]
+PISTA DE RUNAS +2         [OK]
+PISTA DE RUNAS +3		  [OK]
+PISTA DE RUNAS +4		  [OK]
+PISTA DE RUNAS +5		  [OK]
+
+PISTA DE RUNAS +6		  [Falta finalizar]
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+CARTA DUELO A ID 1731     [OK]
+CARTA DUELO M ID 3171	  [OK]
+CARTA DUELO N ID 3172	  [OK]
+
+AGUA N ID 3173			  [OK]
+AGUA M ID 777			  [OK]
+AGUA A ID 3182			  [OK]
+
+PESADELO N ID 3324		  [OK]
+PESADELO M ID 3325		  [OK]
+PESADELO A ID 3326		  [OK]
+
+COLISEU N			      [OK falta finalizar]
+COLISEU M			      [OK falta finalizar]
+COLISEU A			      [OK falta finalizar]
+
+CUBO N ID 1772			  [NÃO ENTRA]
+
+PORTAO DO INFERNO N/IND ID 3328   [Falta Testar]
+PORTAO DO INFERNO M/GRUP ID 3329  [Falta Testar]
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+TEMPO DA SOUL (AUMENTAR)   [SKILLDATA]
+JULIARZAN                  [OK]
+JULIGELO                   [OK] 
+PASSIVA DA HT DEX > CRIT	[TESTAR]
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TESTE NPCS COMPOSITORES
+
+Ehre
+
+PACOTE ORIHARUCON				[OK]
+PEDRA MISTERIOSA				[OK]
+PEDRA ESPIRITUAL II(ANKH)		[OK]
+PEDRA AMUNRA(ANKH)				[OK]
+REFINAÇÃO ABENÇOADA				[A TESTAR]
+TRAJE DE MONTARIA				[OK]
+RESTAURAR TRAJE				    [OK]
+TROCA DE ALMA(SOUL)			    [OK]
+
+Tiny (ARMA MORTAL > ARCH)		[OK]
+         
+
+Shany (PEDRA ESPIRITUAL I)      [OK]
+
+
+Ailyn                           [OK]
+REFINAÇÃO +10
+
+Compositor (ITEM ANCIENT)       [OK]
+ 
+Agatha     (ITEM ARCH)          [OK]
+ 
+(Passar add Set Mortal > Arch)
+
+>>>>>>>>>>>> Odin <<<<<<<<<<<<
+
+COMBINAÇÃO (Selado > Ñ Selado) [OK]
+REFINAÇÃO +12 ~ +15            [OK]
+PISTA DE RUNAS                 [OK]
+DESTRAVE CELESTIAL I (Lv40)    [OK]
+DESTRAVE CELESTIAL II/SECRETA  [OK]
+SEMENTE DE CRISTAL (???)       [OK]
+COMBINAÇÃO DE CAPA (Capa Cele) [OK]
+
+>>>>>>>>>>>> Dedekinto <<<<<<<<<<<<
+ 
+PEDRA AMUNRA                   [ARRUMAR]
+PROTEÇÃO DIVINA                [OK]
+
+-----------------------------------------------------------------------------------------
+CONSUMIVEIS EM ITENS
+
+SPINELL     [OK]
+BERIL       [OK]
+TECTITA     [OK]
+ADAMANTITA  [OK]
+
+LACTOLERIUM NORMAL/CELESTIAL      [OK]
+LACTOLERIUM 100% NORMAL/CELESTIAL [OK]
+
+CLASSE A  [OK]
+CLASSE B  [OK]
+CLASSE C  [OK]
+CLASSE D  [OK]
+CLASSE E  [OK]
+
+MITHRIL DANO              [TESTAR]
+MITHRIL MAGICO            [TESTAR]
+MITHRIL DEFESA            [TESTAR]
+MITHRIL CRITICO           [TESTAR]
+
+------------------------------------------------------------------------------------------
+GUERRAS
+
+RVR               [TESTAR]
+NOATUN            [TESTAR]
+CIDADES           [TESTAR]
+TORRE             [OK]
+
+------------------------------------------------------------------------------------------
+

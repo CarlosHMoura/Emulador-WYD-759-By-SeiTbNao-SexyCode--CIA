@@ -1,0 +1,8 @@
+﻿  Basedef.cpp
+  CPSock.cpp
+  CUser.cpp
+  Main.cpp
+  ProcessMessage.cpp
+  Gerando Código...
+BISrv.rc(10): fatal error RC1015: cannot open include file 'afxres.h'.
+  

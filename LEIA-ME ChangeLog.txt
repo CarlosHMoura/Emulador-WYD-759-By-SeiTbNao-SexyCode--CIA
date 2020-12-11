@@ -1,0 +1,76 @@
+----------- Organização -----------
+
+Favor, coloque sempre [*] - Corrigido  - [+] - adicionado - [-] - retirado - [#] - alterado
+é seu nome junto a data é o motivo do bug, obrigado.
+A organização é fundamental para se encontrar no emulador(source), 
+para evitar outros problemas é encontrar algum com um error de digitação.
+
+----------- ChangeLog -----------
+
+[*] - Corrigido  - [+] - adicionado - [-] - retirado - [#] - alterado
+
+07/09/2020 bySexyCode
+
+01 - [*] Greentimer nas quests [o bug era em um recall no processtimer]
+02 - [*] O comando novato [ o bug era a var. no processdgmsg estava errada a ordem]
+03 - [*] Npcmode [ o bug era o level do guarda real III estava igual do gaurda helgard(npc quest)]
+04 - [+] Comando /Evento [ e uma variavel CheckEvento para o comando]
+05 - [+] Code de evento na processsmtimer  [ para a var CheckEvento para o comando]
+06 - [+] Cordenadas(evento) greentime na clienpatch
+07 - [+] Verificação para remover level acima da quest (quest mortais)
+08 - [*] Coliseu N,M,A
+09 - [#] Drop de itens do coliseu e feito na mobkilled pegando a gener dos mobs, estao definidos como define.
+10 - [-] Vou retirar a função do npc xama e fazer o npc batalha real amanha (08/09/2020)
+11 - [+] Verificação para os coliseus [N] MORTAL, [M] ARCH, [A] CELESTIAL+ (Na MSG ACTION) 
+
+Log - Encerrado
+ 
+08/09/2020 bySexyCode
+01 - [#] Code donate comentando para testes no beta [MSG BUY ALTERADO]
+02 - [*] Os ids da gener #define na Basede.h 
+03 - [*] Os ids dos mobs de todas as das entradas A,M,N  na Basede.h  
+04 - [+] Botoes de reload skilldata e itemlist na tmsrv.exe
+05 - [*] Quest Portal Infernal
+06 - [+] Menu premio novato
+07 - [+] Menu player para novas funções, descartando funções em npcs e comandos.
+
+Log - Encerrado
+
+11/09/2020 bySexyCode
+01 - [+] Texto para mostrar no valor donate no inv ( falta fazer aparecer, pois esta mostrando valor inteiro da var)
+02 - [+] Paineis para recuperar itens novato
+03 - [+] Painel Menu Evento ( aperta letra T para mostrar)
+04 - [+] Condição no painel de recompensa novato para level 0 ao 35[mortal]
+
+Log - Encerrado
+
+12/09/2020 bySexyCode
+01 - [#] REI_HARABARD   4723 é o REI_GLANTUAR 4724 passa a ser esses ids na gener e na define do emulador, não sei ainda o motivo o qual eles n podem nascer nos ids 7 é 8.
+02 - [+] Packet e Struct Freyja da aposta pista +6 falta finalizar.
+03 - [#] Corrigido Coliseu [A,M,N]
+04 - [+] Batalha real(falta finalizar)
+Log - Encerrado
+16/09/2020 bySeitbn
+01 - [+] Donate inv
+02 - [+] Sendetc2 (para atualizar o donate)
+Log - Encerrado
+16/09/2020 bySexyCode
+01 - [+] Evento Lojinha com greentimer
+Log - Encerrado
+17/09/2020 bySexyCode
+01 - [#] Batalha real. falta fazer a parte da mobkilled
+24/09/2020 Punisher
+01 - [#] Gener id's alterados dos reis para nascerem normalmente.
+02 - [+] Mensagens adicionadas para movimentações entre portais.
+03 - [*] Players morrendo sozinho na cidade consertados. (if (BattleMode & 0x1000))
+04 - [+] Loja por EF_HONRA adicionada.
+05 - [#] Shany Gelo alterado para Arch Nível 0 com mensagem quando é mortal, sem mensagem genérica de composição incorreta.
+06 - [*] Odin Mensagens adicionadas +12 acima.
+07 - [+] NPC tab adicionado.
+08 - [*] SendEtc no /pin para atualizar no inventário.
+09 - [#] Requerimentos para uso de extração retirados.
+10 - [+] Avisos no servidor por hora(minutos 40 e 50).
+11 - [#] Circulo Comp puro reseta 9ª skill.(BySexyCode.)
+12 - [#] Urnammu resetando 9ª skill na troca de classe.
+13 - [#] Ideal alterada para solicitar 400/400 cele & sub.
+Log - Encerrado
